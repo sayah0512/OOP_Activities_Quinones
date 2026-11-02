@@ -1,6 +1,6 @@
 // Josiah B. Quiñones
 // BSIT - 2B
-// October 21, 2026
+// October 28, 2026
 
 public class Main{
 	public static void main(String[] args) {
