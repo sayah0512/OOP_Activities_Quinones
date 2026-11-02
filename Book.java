@@ -1,6 +1,6 @@
 // Josiah B. Quiñones
 // BSIT - 2B
-// October 21, 2026
+// October 27, 2026
 
 public class Book{
 	private String title;
