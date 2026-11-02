@@ -1,6 +1,6 @@
 // Josiah B. Quiñones
 // BSIT - 2B
-// October 21, 2026
+// October 28, 2026
 
 public class Manager extends Employee{
 	private int teamSize;
