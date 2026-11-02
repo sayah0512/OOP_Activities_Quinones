@@ -1,6 +1,6 @@
 // Josiah B. Quiñones 
 // BSIT - 2B
-// October 20, 2026
+// October 26, 2026
 
 public class Student{
 	private String name;
